@@ -9,7 +9,7 @@ __pycache__/
 
 .coverage
 coverage/
-htmlcov/
+
 
 *.log
 *.tmp
